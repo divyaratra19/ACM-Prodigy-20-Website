@@ -64,6 +64,8 @@
   font-family: Poppins-Light;
   font-size: 70px;
   color: #fff;
+  border: 3px solid white;
+  padding: 16px 20px;
   line-height: 1;
 }
 
@@ -93,6 +95,7 @@
 }
 
 .wsize2 {
+  margin: 0px 19px;
   width: 100px;
 }
 
@@ -120,12 +123,12 @@
 
 
 /*==================================================================
-   WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE  
+   WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE
 ==================================================================*/
 
 
 /*==================================================================
- HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW 
+ HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW
 ==================================================================*/
 .placeholder0::-webkit-input-placeholder { color: #fff;}
 .placeholder0:-moz-placeholder { color: #fff;}
@@ -153,16 +156,3 @@
   background: linear-gradient(bottom,  #020033,  #020033);
   /*opacity: 0.9;*/
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
