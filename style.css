@@ -189,9 +189,9 @@ ul {
 .bg-img1 {
   background-position: center center !important;
   background-size: cover !important;
-  background-repeat: no-repeat !important; 
+  background-repeat: no-repeat !important;
   height: 580px;
-  background: #020033;} 
+  background: #020033;}
 
 .bg-img {
   background-position: center center !important;
@@ -746,9 +746,9 @@ input:required {
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;
     transition-duration: 500ms;
-    
+
     height: 105px;
-    
+
     padding: 0; }
     @media only screen and (max-width: 767px) {
       .classy-nav-container .classy-navbar .nav-brand {
@@ -1456,7 +1456,7 @@ input:required {
         display: block;
   width: 100%;
   height: auto;
-      
+
       -webkit-transition-duration: 1500ms;
       -o-transition-duration: 1500ms;
       transition-duration: 1500ms;
@@ -2447,6 +2447,7 @@ input:required {
   border: 1px solid white;
   border-radius: 10px;
   padding: 25px;
+  background-color: #b0abcc;
   -webkit-transition-duration: 500ms;
   -o-transition-duration: 500ms;
   transition-duration: 500ms;
